@@ -83,7 +83,7 @@ body{
   height: 380px;
   border-radius: 35px;
   width: 760px;
-  background: url(/img/metal.jpg);
+  background: url(img/metal.jpg);
   background-size:contain;
   cursor : pointer;
 }
